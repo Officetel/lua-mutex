@@ -8,7 +8,7 @@ Please remove it if necessary.
 
 ## Example
 ```lua
-local mutex = require("bson")
+local mutex = require("mutex")
 
 -- using
 local mutex_new = mutex.new
