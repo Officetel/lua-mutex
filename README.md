@@ -1,9 +1,9 @@
 # lua-mutex
 
 ## Support
-Because of the lack of external dependence, this script is fully supported in Lua 5.1, but not for type systems.
+There is no external dependency, so this script is fully supported in Lua 5.1, but not on type systems.
 Please remove it if necessary.
-외부 의존성이 부족하기 때문에 이 스크립트는 Lua 5.1에서는 완전히 지원되지만, 타입 시스템에서는 지원되지 않습니다.
+외부 의존성이 없으므로 이 스크립트는 Lua 5.1에서는 완전히 지원되지만, 타입 시스템에서는 지원되지 않습니다.
 필요하다면 제거해 주세요.
 
 ## Example
